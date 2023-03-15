@@ -23,3 +23,4 @@ In "Different dynamic events results" folder, "Metrics_w_m" represents the resul
 
 In "Each dynamic event results" folder, four sub-folders (i.e.,"Worker tool breakdowns and repairs","New batch arrivals","Batch cancellations" and "Batch size changes") represent experimental results under each dynamic event. Thus, each sub-folder contains files similar to those of "Different dynamic events results" folder.
 
+In "PDNSGA-II strategy analysis", "PDNSGA2_Metrics_w_m" represents the results of PDNSGA-II compared to PDNSGA-II-noPRS,PDNSGA-II-noCM, PDNSGA-II-noPM, and PDNSGA-II-noMPS(PDNSGA-II-noHH) at instance with _w_ workers and _m_ batches;"PDNSGA2_MHV_Result"/"PDNSGA2_MIGD_Result" represents the summary result of all "Metrics_w_m" after statistical tests on metrics MHV/MIGD.
