@@ -29,7 +29,7 @@ _Date Revision Submission_:2023.08.16
 
 ### Related Folders
 
-"Different dynamic events results","Each dynamic event results","PDNSGA-II strategy analysis","Epslion method results"
+"Different dynamic events results","Different dynamic events results_updated", "Each dynamic event results", "PDNSGA-II strategy analysis", "Epslion method results"
 
 **Folder Description:**
 
