@@ -11,19 +11,25 @@ This is a dataset of the dynamic SERU production system, where "Dynamic events i
 
 _Date Initial Submission_: 2022.12.07
 
-_Date Revision 1nd Began_: 2023.03.04
+### Date Revision 1nd 
+
+_Began_: 2023.03.04
 
 _Status_: revise
 
 _Date Revision Submission_:2023.03.24
 
-_Date Revision 2nd Began_: 2023.08.12
+### Date Revision 2nd
+
+_Began_: 2023.08.12
 
 _Status_: revise
 
 _Date Revision Submission_:2023.08.16
 
-_Related Folders_: "Different dynamic events results","Each dynamic event results","PDNSGA-II strategy analysis","Epslion method results"
+### Related Folders_
+
+"Different dynamic events results","Each dynamic event results","PDNSGA-II strategy analysis","Epslion method results"
 
 **Folder Description:**
 
