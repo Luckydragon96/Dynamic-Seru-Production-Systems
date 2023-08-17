@@ -27,13 +27,13 @@ _Status_: revise
 
 _Date Revision Submission_:2023.08.16
 
-### Related Folders_
+### Related Folders
 
 "Different dynamic events results","Each dynamic event results","PDNSGA-II strategy analysis","Epslion method results"
 
 **Folder Description:**
 
-In "Different dynamic events results" folder, "Metrics_w_m" represents the results of PDNSGA-II compared to DNSGA-II-A, DNSGA-II-B, SGEA at instance with _w_ workers and _m_ batches; "MHV_Result"/"MIGD_Result" represents the summary result of all "Metrics_w_m" after statistical tests on metrics MHV/MIGD;"Completely Reactive Result_w_m" represents the results of six on-line dynamic methods at instance with _w_ workers and _m_ batches and "Completely Reactive Summary Result" is their summary result.
+In "Different dynamic events results" folder, "Metrics_w_m" represents the results of PDNSGA-II compared to DNSGA-II-A, DNSGA-II-B, SGEA at instance with _w_ workers and _m_ batches; "MHV_Result"/"MIGD_Result" represents the summary result of all "Metrics_w_m" after statistical tests on metrics MHV/MIGD;"Completely Reactive Result_w_m" represents the results of six on-line dynamic methods at instance with _w_ workers and _m_ batches and "Completely Reactive Summary Result" is their summary result. **"Different dynamic events results_updated" is the modified version in 2nd revision.**
 
 In "Each dynamic event results" folder, four sub-folders (i.e.,"Worker tool breakdowns and repairs","New batch arrivals","Batch cancellations" and "Batch size changes") represent experimental results under each dynamic event. Thus, each sub-folder contains files similar to those of "Different dynamic events results" folder.
 
